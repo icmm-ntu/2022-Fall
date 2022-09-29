@@ -1,0 +1,2 @@
+N_total = 100, N_inside =76
+N_total = 10000, N_inside =7801
