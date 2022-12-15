@@ -24,7 +24,10 @@ print (groups)
 - Final project report on `Dec. 22th` (tentatively)
 
 # Midterm Statistics 
-$S_{scaled} = 100 \times\sqrt{\frac{S_{original}}{100}}$
-Average score = 86.40
-Standard deviation = 12.47
+
+- $S_{scaled} = 100 \times\sqrt{\frac{S_{original}}{100}}$
+
+- Average score = 86.40
+
+- Standard deviation = 12.47
 
