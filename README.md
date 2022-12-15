@@ -22,3 +22,9 @@ print (groups)
 - Pick up your project topic by `Sept. 29th`  (tentatively)
 - Proposal presentation on `Oct. 20th` (tentatively)
 - Final project report on `Dec. 22th` (tentatively)
+
+# Midterm Statistics 
+$S_{scaled} = 100 \times\sqrt{\frac{S_{original}}{100}}$
+Average score = 86.40
+Standard deviation = 12.47
+
