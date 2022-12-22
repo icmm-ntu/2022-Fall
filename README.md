@@ -3,7 +3,7 @@
 
 - In class of Sept. 29th, please fill out  [`Final Project Team Roster`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
 
-<!-- Presentation order on Oct. 20: ['F', 'A', 'E', 'C', 'D', 'B'] 
+Presentation order on Oct. 20: ['F', 'A', 'E', 'C', 'D', 'B'] 
 
 
 ```python
@@ -14,7 +14,7 @@ random.shuffle(groups)
 print (groups)
 ```
 
--->
+
 
 
 # Final project timeline
