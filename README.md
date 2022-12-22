@@ -3,14 +3,14 @@
 
 - In class of Sept. 29th, please fill out  [`Final Project Team Roster`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)
 
-Presentation order on Oct. 20: ['F', 'A', 'E', 'C', 'D', 'B'] 
+<!--Presentation order on Oct. 20: ['F', 'A', 'E', 'C', 'D', 'B'] -->
 
-**Presentation order on Dec. 22: ['A', 'E', 'C', 'B', 'F', 'D']**
+**Presentation order on Dec. 22: ['I', 'C', 'A', 'J', 'B', 'H', 'D', 'F', 'G', 'K', 'E']**
 
 
 ```python
 import random
-groups = ['A','B','C','D','E','F']
+groups = ['A','B','C','D','E','F','G','H','I','J','K']
 #print (groups)
 random.shuffle(groups)
 print (groups)
