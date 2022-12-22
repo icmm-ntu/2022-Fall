@@ -5,6 +5,8 @@
 
 Presentation order on Oct. 20: ['F', 'A', 'E', 'C', 'D', 'B'] 
 
+**Presentation order on Dec. 22: ['A', 'E', 'C', 'B', 'F', 'D']**
+
 
 ```python
 import random
